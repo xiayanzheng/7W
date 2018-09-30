@@ -1,0 +1,45 @@
+
+
+org.apache.struts.taglib.html.TOKEN=94c056eb1f7d1497a5b2371479251fb7&
+event=forward_register&
+delFlag=0&
+type=8131001000&
+costNo=&
+
+workDate=2017%2F06%2F09&
+
+userId=xyz&
+######################################
+workType1=118&
+time1=5&
+projectNo1=&
+customer1=VF00217633&
+######################################
+workType2=109&
+time2=1&
+projectNo2=1001875&
+customer2=VF00221686&
+######################################
+workType3=118&
+time3=2&
+projectNo3=1001634&
+customer3=VF00011407&
+######################################
+workType4=&
+time4=0&
+projectNo4=&
+customer4=&
+######################################
+workType5=&
+time5=0&
+projectNo5=&
+customer5=&
+detail=DLO+PPT%0D%0A&
+######################################
+
+
+status=100HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Thu, 06 Jul 2017 02:20:16 GMT

@@ -1,0 +1,31 @@
+POST /hsg/cost/costDSP.do?r=260881190116835816 HTTP/1.1
+Host: 112.74.110.121:8080
+Connection: keep-alive
+Content-Length: 455
+Cache-Control: max-age=0
+Origin: http://112.74.110.121:8080
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.3103.400 QQBrowser/9.6.11372.400
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://112.74.110.121:8080/hsg/cost/costDSP.do?r=4865240248922332264
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: JSESSIONID=D5DA0AAC05FCF7D1E81276FB269B6EC1; JSESSIONID=5FC8179061F26412DD52D7F90E21BEB4
+
+POST /hsg/cost/costDSP.do?r=260881190116835816 HTTP/1.1
+Host: 112.74.110.121:8080
+Connection: keep-alive
+Content-Length: 455
+Cache-Control: max-age=0
+Origin: http://112.74.110.121:8080
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.3103.400 QQBrowser/9.6.11372.400
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://112.74.110.121:8080/hsg/cost/costDSP.do?r=4865240248922332264
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: JSESSIONID=D5DA0AAC05FCF7D1E81276FB269B6EC1; JSESSIONID=5FC8179061F26412DD52D7F90E21BEB4
+
+
